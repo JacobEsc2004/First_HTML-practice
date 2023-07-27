@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #cdd64b;
+    font-family: "Calibri", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #333;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.mainContainer {
+    position: relative;
+    background-color: rgb(236, 12, 57);
+    width: 100%;
+    height: 100%;
+
+}
+.innerContainer{
+    border: 1px solid black;
+    background-color: green;
+    padding-left: 10px 5px 20px 5px;
+    margin: 20px;
+    text-align: center;
+}
+.text{
+    color: #fff;
+    font-size: xx-large;
+}
